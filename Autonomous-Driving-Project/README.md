@@ -57,6 +57,12 @@ Build a deep learning pipeline for processing vehicle image datasets and prepari
 - Deep learning-ready image pipeline
 - Vehicle class encoding
 
+## Dataset
+
+The dataset used in this project is not included due to GitHub file size limitations.
+
+The project was created for educational and learning purposes.
+
 ---
 
 # Part 2 — Tesla Autonomous Driving Accident Analysis

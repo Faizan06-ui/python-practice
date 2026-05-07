@@ -45,6 +45,12 @@ The dataset contains financial and credit-related information such as:
 
 The dataset contains 9,578 loan records with 14 features. 
 
+## Dataset
+
+The dataset used in this project is not included due to GitHub file size limitations.
+
+The project was created for educational and learning purposes.
+
 ---
 
 ## Project Workflow
